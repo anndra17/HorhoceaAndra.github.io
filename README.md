@@ -1,4 +1,4 @@
-Personal Portfolio Website
+# Personal Portfolio Website
 
 Project Description
 
@@ -6,9 +6,9 @@ The goal of this project is to create a personal website that showcases my skill
 
 Deliverables
 
-One HTML file for the structure of the website.
-One CSS file for the styling of the website.
-Any additional assets (e.g., images) used in the website.
+- One HTML file for the structure of the website.
+- One CSS file for the styling of the website.
+- Any additional assets (e.g., images) used in the website.
 
 Features
 
